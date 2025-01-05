@@ -1,2 +1,2 @@
 # Bootstraping
-<p>Testing Bootstrap and Github pages...</p>
+<p>Testing Bootstrap and Github Pages...</p>
