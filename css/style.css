@@ -2,6 +2,18 @@
   max-height: 600px;
 }
 
-.container-gap {
-  gap: 5px;
+/*no encontre una forma menos chapucera de hacer que se muestre
+ como yo quiero en pantallas grandes o pequennas*/
+.no-mostrar {
+  display: none;
+}
+@media (min-width: 0px) and (max-width: 430px) {
+  .show-mobile {
+    display: block;
+  }
+}
+@media (min-width: 431px) and (max-width: 1400px) {
+  .show-pc {
+    display: block;
+  }
 }

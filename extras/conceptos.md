@@ -1,1 +1,1 @@
-<p>Sitio remake de <a>https://www.mijoartdesign.com</a> (mi version)</p>
+<p>Sitio remake de <a>https://www.mijoartdesign.com</a> (intento de hacer mi version)</p>
